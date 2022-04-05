@@ -1,6 +1,6 @@
 ########################################
 #
-# Autir: Ernesto Lomar
+# Autor: Ernesto Lomar
 # Contacto: marioernestolomar@protonmail.ch
 #
 ########################################
